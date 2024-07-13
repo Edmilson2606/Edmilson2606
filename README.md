@@ -6,7 +6,7 @@
 
 ## Sobre mim:
 
-Olá, sou Edmilson, um profissional apaixonado por Tecnologia da Informação com uma trajetória diversificada e sólida. Com mais de 15 anos de experiência no desenvolvimento de software, minha formação inclui Tecnólogo em Processamento de Dados, pós-graduação em Análise de Sistemas e um MBA em Gestão Empresarial e Inteligência Organizacional. Além de atuar em todas as etapas do desenvolvimento de sistemas, lecionei em instituições de ensino e acumulei 20 anos de experiência no segmento comercial. Atualmente, estou focado no desenvolvimento Full-Stack, trazendo uma combinação única de habilidades comerciais e conhecimentos em TI para minha jornada na empresa EMSURB e em projetos freelancer. Com projetos destacados no GitHub, Vercel e Netlify, estou aberto a novas oportunidades e parcerias enriquecedoras na área de TI.
+Olá, meu nome é Edmilson e sou um entusiasta da Tecnologia da Informação. Sou formado em Tecnólogo em Processamento de Dados, possuo pós-graduação em Análise de Sistemas e um MBA em Gestão Empresarial e Inteligência Organizacional. Com mais de 15 anos de experiência como desenvolvedor, desenvolvi habilidades para trabalhar de forma colaborativa em equipes, entregando não apenas código de alta qualidade, mas também contribuindo com análises estratégicas que alinham equipes e empresas para alcançar o sucesso. Estou constantemente em busca de aprendizado para garantir a qualidade e escalabilidade dos meus projetos.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Edmilson2606&show_icons=true&count_private=true&hide_border=true&title_color=0b64bf&icon_color=0b64bf&text_color=fff&bg_color=9dc1e5" /> 
@@ -32,4 +32,7 @@ Olá, sou Edmilson, um profissional apaixonado por Tecnologia da Informação co
 
 ## Vamos Conectar
 
-Obrigado por visitar meu perfil! Se você está interessado em desenvolvimento Full-Stack, TI, ou está em busca de novas oportunidades e parcerias, não hesite em entrar em contato. Adoro conectar-me com outros profissionais apaixonados por tecnologia e inovação. Vamos juntos impulsionar o futuro da tecnologia! Entre em contato comigo e conheça mais sobre meu trabalho e experiências. Estou sempre aberto a novas ideias e colaborações.
+Obrigado por visitar meu perfil! Se você está interessado em desenvolvimento Full-Stack, TI, ou busca novas oportunidades e parcerias, entre em contato. Estou sempre aberto a novas ideias e colaborações.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b64bf&height=180&section=footer&text=Obrigado%20por%20visitar!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
