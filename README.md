@@ -1,4 +1,3 @@
-👋
 
 <img width=100% src = "https://capsule-render.vercel.app/api?type=waving&color=0b64bf&height=180&section=header&text=Ola%20meu%20nome%20é%20Edmilson&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
