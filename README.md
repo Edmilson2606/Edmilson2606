@@ -19,7 +19,7 @@ Olá, meu nome é Edmilson e sou um entusiasta da Tecnologia da Informação. So
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB.svg?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-339933.svg?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-4479A1.svg?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
